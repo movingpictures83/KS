@@ -1,0 +1,2 @@
+vector1	plugins/KS/example/vector1.csv
+vector2	plugins/KS/example/vector2.csv
